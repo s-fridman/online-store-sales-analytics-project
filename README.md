@@ -36,4 +36,4 @@ End-to-end data analysis project about user behavior, sales and audience segment
 
 ## Tools
 
-Python, pandas, seaborn, SciPy, statsmodels, Google BigQuery, Tableau
+Python, pandas, seaborn, matplotlib, SciPy, statsmodels, Google BigQuery, Tableau
