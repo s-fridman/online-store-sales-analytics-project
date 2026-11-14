@@ -37,3 +37,9 @@ End-to-end data analysis project about user behavior, sales and audience segment
 ## Tools
 
 Python, pandas, seaborn, matplotlib, SciPy, statsmodels, Google BigQuery, Tableau
+
+## Dashboard preview
+
+<a href="https://public.tableau.com/views/Sessions_17938809790950/SalesCustomerBehaviorDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+  <img width="700" alt="Sales Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/2f4f1b24-0899-4cb9-96de-5fd33b1db2df" />
+</a>
